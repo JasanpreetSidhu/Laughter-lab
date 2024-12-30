@@ -64,4 +64,9 @@ small {
   position: absolute;
   bottom: 0;
   margin-bottom: 1em;
+  color: #ffffffce;
+}
+
+small a {
+  color: #ffffffce;
 }
