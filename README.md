@@ -1,5 +1,5 @@
 # Laughter-lab
-This application displays jokes to brighten your day by fetching a random joke from the [Chuck Norris API](https://api.chucknorris.io) with the click of a button.
+This [application](https://jasanpreetsidhu.github.io/Laughter-lab/) displays jokes to brighten your day by fetching a random joke from the [Chuck Norris API](https://api.chucknorris.io) with the click of a button.
 
 ## Technical Insights
 1. __Asynchronous JavaScript__: The application uses XMLHttpRequest to send asynchronous requests to the Chuck Norris API.
